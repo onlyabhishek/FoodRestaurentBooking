@@ -10,16 +10,15 @@ const About = () => {
           <div className="banner">
             <div className="top">
               <h1 className="heading">ABOUT US</h1>
-              <p>The only thing we're serious about is food.</p>
+              <p>Our passion for food is unmatched.</p>
             </div>
             <p className="mid">
-              Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-              Provident possimus optio adipisci dolores impedit illum iusto
-              perferendis, laudantium quod accusamus consequuntur consectetur,
-              tempore nulla error iure reiciendis dolorem assumenda.
-              Necessitatibus fugit asperiores totam rem esse exercitationem
-              iusto ipsum qui dolore ex, accusantium repellat mollitia
-              repellendus.
+              At our restaurant, we are dedicated to bringing you exceptional 
+              vegetarian dishes made with fresh, high-quality ingredients. 
+              Our commitment is to create meals that not only taste great but also 
+              nourish your body and soul. From carefully crafted recipes to 
+              impeccable service, every aspect of our restaurant is designed 
+              to deliver an extraordinary dining experience.
             </p>
             <Link to={"/"}>
               Explore Menu{" "}
